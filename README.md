@@ -2,7 +2,6 @@
 
 **Full-Stack Developer** | Building modern, scalable web applications from UI to deployment.
 
-[![Portfolio](https://img.shields.io/badge/Live_Project-User_Onboarding_System-000?style=for-the-badge&logo=vercel&logoColor=white)](https://user-onboarding-site.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonatan%20Kesete-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonatan-kesete)
 [![Email](https://img.shields.io/badge/Email-yonatankesete07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonatankesete07@gmail.com)
 
